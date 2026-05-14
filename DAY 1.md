@@ -16,7 +16,7 @@
 - And Once the DNS server finds that IP address, it will send it back to your browser through the ISP over the request.
 - then you make a direct request to that address.
 - what lives at that IP address is of course google servers,that are able to access to view google home page.
-- ** NSlookup.io - The website shows the IP addresses**
+- ** NSlookup.io - The website shows the IP addresses **
   ## What about oceans?
   - There are these massive undersea cables connecting all the continents on Earth ** Submarinecablemap.com** hundreds of optic fibres.
   - Each of them using lasers to transmit upto 400 gb data persecond
