@@ -5,3 +5,4 @@
 ---
 ## 📅 RoadMap
 - Day 1 : How does the internet actually works?
+- Day 2 : How does website actually works?
