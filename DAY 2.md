@@ -10,5 +10,6 @@
 - JavaScript code is the code that allows your website to actually have functionality.
 - It is static website which has pretty images or text change into dynamic website
 - We can render the website with this three types of files
-** Chrome developer tools **
+
+**Chrome developer tools**
 ### Example: If a website was a house,HTML would be the actual bricks of the house & raw materials made up of house,shape of the wall,color of the wall is CSS,adding light bulbs shouldt urn on or off is js 
