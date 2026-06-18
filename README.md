@@ -5,4 +5,4 @@
 ---
 ## 📅 RoadMap
 - [Day 1 : How does the internet actually works?](https://github.com/Vishnupriya609/webdevelopement/blob/main/DAY%201.md)
-- Day 2 : How does website actually works?
+- [Day 2 : How does website actually works?](https://github.com/Vishnupriya609/webdevelopement/blob/main/DAY%202.md)
