@@ -21,7 +21,7 @@
   - There are massive undersea cables connecting all the continents on Earth **Submarinecablemap.com** hundreds of optic fibres.
   - Each of them using lasers to transmit upto 400 gb data persecond
   - And to think that every single time we load up a web page or click on a button on a website behind the scenes was sending signals that navigates all of this crazy underwater & above water wires & all just need ip address
-  - And through tiny electric signals,travelling at the speed of light through oceans in a matter millisecondsi get to view my favourite websites.
+  - And through tiny electric signals,travelling at the speed of light through oceans in a matter milliseconds get to view my favourite websites.
 
   
 
