@@ -12,4 +12,4 @@
 - We can render the website with this three types of files
 
 **Chrome developer tools**
-### Example: If a website was a house,HTML would be the actual bricks of the house & raw materials made up of house,shape of the wall,color of the wall is CSS,adding light bulbs shouldt urn on or off is js 
+### Example: If a website was a house,HTML would be the actual bricks of the house & raw materials made up of house,shape of the wall,color of the wall is CSS,adding light bulbs should turn on or off is js 
