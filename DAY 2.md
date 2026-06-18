@@ -1,5 +1,5 @@
 # How does website actually works?
-## Before client request the server it send back it with data and files to render the website 
+## After client request the server it send back it with data and files to render the website 
 - The data that you receive from that server usually consists of three types of files to render the website.
 - They're so common and integral to how websites works
 ## why are there so many different types of files and what exactly they do?
