@@ -18,7 +18,7 @@
 - what lives at that IP address is of course google servers,that are able to access to view google home page.
 - **NSlookup.io - The website shows the IP addresses**
   ## What about oceans?
-  - There are these massive undersea cables connecting all the continents on Earth ** Submarinecablemap.com** hundreds of optic fibres.
+  - There are massive undersea cables connecting all the continents on Earth **Submarinecablemap.com** hundreds of optic fibres.
   - Each of them using lasers to transmit upto 400 gb data persecond
   - And to think that every single time we load up a web page or click on a button on a website behind the scenes was sending signals that navigates all of this crazy underwater & above water wires & all just need ip address
   - And through tiny electric signals,travelling at the speed of light through oceans in a matter millisecondsi get to view my favourite websites.
