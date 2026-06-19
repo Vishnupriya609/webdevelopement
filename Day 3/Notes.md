@@ -20,6 +20,6 @@
 ### EX:[Bacon Ipsum](https://baconipsum.com/),[Lipsum](https://www.lipsum.com/),[Bro Ipsum](https://www.broipsum.com/) generates the lorem ipsum paragraphs.
 
 ## Void Elements
-### Non-void Elements are such as paragraph heading elements etc...A void Element are horzontial rule(<hr/>---> inserts the horizontal line, break elements ----> breaks the line
+### Non-void Elements are such as paragraph heading elements etc...A void Element are horzontial rule(<hr/>)---> inserts the horizontal line, break elements(<br/>) ----> breaks the line
 
 ### I made the small website includes the heading,paragraphs,break,horizontal rule elements
