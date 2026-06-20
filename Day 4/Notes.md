@@ -1,8 +1,8 @@
 # Intermediate HTML
 ## List Elements
 ### Used to organize and display related items in a structured format.
-### List Item (<li>) – Represents an individual item inside a list.
-## Ordered List (<ol>) – Displays items in a specific order using numbers or letters.
+### List Item  – Represents an individual item inside a list.
+## Ordered List  – Displays items in a specific order using numbers or letters.
 ```
 <ol>
     <li>Wake Up</li>
@@ -11,7 +11,7 @@
     <li>Study HTML</li>
 </ol>
 ```
-## Unordered List (<ul>) – Displays items using bullet points where order does not matter.
+## Unordered List  – Displays items using bullet points where order does not matter.
 ```
 <ul>
     <li>Rava</li>
