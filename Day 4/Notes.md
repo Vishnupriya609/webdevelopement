@@ -20,7 +20,7 @@
     <li>Salt</li>
 </ul>
 ```
-## Description List (<dl>) - Used to display a list of terms and their corresponding descriptions.
+## Description List - Used to display a list of terms and their corresponding descriptions.
 ### <dt> – Description Term (the term/title)
 ### <dd> – Description Definition (the description/explanation)
 ```
