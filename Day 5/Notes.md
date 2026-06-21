@@ -5,7 +5,7 @@
 ```
 <img src="images/photo.jpg" alt="Photo">
 ```
-### Here, images/photo.jpg is the file path.
+Here, images/photo.jpg is the file path.
 ## Types of File Paths
 ### 1. Absolute File Path: An absolute path provides the complete location of a file.
 #### Using a Website URL
