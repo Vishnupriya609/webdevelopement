@@ -45,3 +45,31 @@
 | `../`    | Parent directory   |
 | `../../` | Two directories up |
 
+#### Advantages:
+
+- Easy to maintain.
+- Works when moving the entire project.
+- Commonly used in web development.
+
+# Web Pages
+## A web page is a document displayed in a web browser. It is created using HTML and can be styled with CSS and made interactive with JavaScript.
+### Examples of Web Pages
+- Home Page
+- About Me Page
+- Contact Me Page
+- Portfolio Page
+- Login Page
+
+## Website VS Web Pages
+
+| Web Page               | Website                   |
+| ---------------------- | ------------------------- |
+| A single page/document | A collection of web pages |
+| About Me page          | Portfolio website         |
+
+Portfolio Website
+│
+├── Home Page
+├── About Me Page
+├── Contact Me Page
+└── Projects Page
