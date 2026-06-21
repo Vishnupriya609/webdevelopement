@@ -17,7 +17,9 @@ It refers to the pieces of text which can link to other documnets in the website
 
  Project.html ----> Helping.html
 
-### Markup Language: It is like the English Language with quotation marks & we can underline & bold the text.
+### Markup Language
+
+It is like the English Language with quotation marks & we can underline & bold the text.
 
 ## Tag vs Element
 Tag: Anything that's inside an angle bracket.There are opening & closing tags
