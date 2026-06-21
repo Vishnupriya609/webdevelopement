@@ -9,7 +9,9 @@ Html file says my website,when this file is opened by the browser,it will displa
 
  HTML Stands for Hypertext Markup Language
 
-#### HyperText: It refers to the pieces of text which can link to other documnets in the website,so these pieces are the foundation of how an HTML website works
+#### HyperText
+
+It refers to the pieces of text which can link to other documnets in the website,so these pieces are the foundation of how an HTML website works
 
  World first website is world wide web created by sir Tim Berners-lee.you can see it's filled with these hyperlinks marked in blue.
 
