@@ -1,7 +1,7 @@
 # File Paths
 ## What is a File Path?
 
-### A file path is the address that tells the browser where a file is located. It is used to access images, web pages, CSS files, JavaScript files, videos, and other resources.
+ A file path is the address that tells the browser where a file is located. It is used to access images, web pages, CSS files, JavaScript files, videos, and other resources.
 ```
 <img src="images/photo.jpg" alt="Photo">
 ```
@@ -52,7 +52,8 @@
 - Commonly used in web development.
 
 # Web Pages
-## A web page is a document displayed in a web browser. It is created using HTML and can be styled with CSS and made interactive with JavaScript.
+
+A web page is a document displayed in a web browser. It is created using HTML and can be styled with CSS and made interactive with JavaScript.
 ### Examples of Web Pages
 - Home Page
 - About Me Page
@@ -218,7 +219,8 @@ Every HTML page starts with this basic structure. 🚀
 
 
 ## Web Hosting
-### Web hosting is a service that stores your website files and makes them available on the internet so anyone can access them using a URL.
+
+ Web hosting is a service that stores your website files and makes them available on the internet so anyone can access them using a URL.
 
 ### Without Hosting
 ```
@@ -240,6 +242,7 @@ Web Hosting Server
 
 ## Types of Web Hosting
 ### 1. Free Hosting
+
 Good for beginners and portfolio websites.
 Examples:
 
@@ -248,7 +251,7 @@ Examples:
 - Vercel
 ### 2. Paid Hosting
 
-### Used for business and production websites.
+Used for business and production websites.
 
 Examples:
 
