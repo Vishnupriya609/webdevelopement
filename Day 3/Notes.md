@@ -23,7 +23,8 @@ It is like the English Language with quotation marks & we can underline & bold t
 
 ## Tag vs Element
 Tag: Anything that's inside an angle bracket.There are opening & closing tags
- Element: There is openeing tag & closing tag & blw  include the content this entire thing called Element
+
+Element: There is openeing tag & closing tag & blw  include the content this entire thing called Element
 ## Heading Element
  The idea comes from book binding.There are six levels of headings h1 to h6,h1 is biggest heading and h6 is the smallest heading
 
