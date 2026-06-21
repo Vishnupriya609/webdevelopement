@@ -1,8 +1,11 @@
 # Intermediate HTML
 ## List Elements
-### Used to organize and display related items in a structured format.
-### List Item  – Represents an individual item inside a list.
-## Ordered List  – Displays items in a specific order using numbers or letters.
+ Used to organize and display related items in a structured format.
+List Item  – Represents an individual item inside a list.
+## Ordered List  
+
+Displays items in a specific order using numbers or letters.
+
 ```
 <ol>
     <li>Wake Up</li>
@@ -11,7 +14,9 @@
     <li>Study HTML</li>
 </ol>
 ```
-## Unordered List  – Displays items using bullet points where order does not matter.
+## Unordered List  
+
+Displays items using bullet points where order does not matter.
 ```
 <ul>
     <li>Rava</li>
@@ -20,9 +25,13 @@
     <li>Salt</li>
 </ul>
 ```
-## Description List - Used to display a list of terms and their corresponding descriptions.
-### <dt> – Description Term (the term/title)
-### <dd> – Description Definition (the description/explanation)
+## Description List 
+
+Used to display a list of terms and their corresponding descriptions.
+
+ <dt> – Description Term (the term/title)
+
+ <dd> – Description Definition (the description/explanation)
 ```
 <dl>
     <dt>HTML</dt>
@@ -36,7 +45,7 @@
 </dl>
 ```
 ## Nesting & Indentation
-### Nesting means placing one HTML element inside another HTML element.
+Nesting means placing one HTML element inside another HTML element.
 ```
 <ul>
     <li>Programming Languages
@@ -47,7 +56,7 @@
     </li>
 </ul>
 ```
-### Indentation means adding spaces or tabs before nested elements to make the code easy to read.
+Indentation means adding spaces or tabs before nested elements to make the code easy to read.
 ### Benefits
 ○ Improves code readability
 ○ Makes debugging easier
@@ -61,7 +70,7 @@
 ```
 
 ## Anchor Element
-### Used to create hyperlinks that allow users to navigate from one page to another page, website, email, or phone number.
+Used to create hyperlinks that allow users to navigate from one page to another page, website, email, or phone number.
 
 ```
 <a href="https://www.google.com">Visit Google</a>
@@ -75,11 +84,11 @@
 ○ Email Link – Opens the user's email application.
 
 ○ Phone Link – Allows calling a phone number on supported devices.
-### Examples: Navigation menus
+ Examples: Navigation menus
 
 ## Attributes
-### Attributes add additional information to tag.we can no.of attributes
-### Example: href,draggable,start,type
+Attributes add additional information to tag.we can no.of attributes
+Example: href,draggable,start,type
 ```
 <a href="https://www.google.com"
    target="_blank"
@@ -89,7 +98,7 @@
 </a>
 ```
 ## Image Element
-### Used to display images on a web page.
+ Used to display images on a web page.
 ```
 <img src="nature.jpg" alt="Beautiful Nature" width="300" height="200">
 ```
@@ -107,7 +116,7 @@
 
 ○ draggable – Makes the image draggable (true or false).
 
-### Example:Profile photos,logos,blog posts,photo galleries
+ Example:Profile photos,logos,blog posts,photo galleries
 ## Project
-### [Birthday Invite Project](https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%204/index.html) in code used the anchor,image,lists,headings elements
+[Birthday Invite Project](https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%204/index.html) in code used the anchor,image,lists,headings elements
 
