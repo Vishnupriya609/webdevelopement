@@ -15,6 +15,6 @@
 - Silktide Accessibility Checker : Used for Screen readers
 - Inspect: we can see code of the website
 Example: If a website was a house,HTML would be the actual bricks of the house & raw materials made up of house,shape of the wall,color of the wall is CSS,adding light bulbs should turn on or off is js 
-## hWat is Rendering Engine?
+## What is Rendering Engine?
  A Rendering Engine is responsible for parsing website files & displaying the web page visually in the browser
 ### Ex: [Bink](https://bink.com/),[Webkit](https://webkit.org/)
