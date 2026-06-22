@@ -1,0 +1,19 @@
+#black{
+    color:black;
+}
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#green{
+    color:green;
+}
+#color-title{
+    font-weight: normal;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
