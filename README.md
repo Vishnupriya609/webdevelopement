@@ -9,3 +9,4 @@
 - [Day 3: HTML Basics](https://github.com/Vishnupriya609/webdevelopement/tree/main/Day%203)
 - [Day 4: Intermediate HTML](https://github.com/Vishnupriya609/webdevelopement/tree/main/Day%204)
 - [Day 5: Multi-page Websites](https://github.com/Vishnupriya609/webdevelopement/tree/main/Day%205)
+- [Day 6: Introduction to CSS]
