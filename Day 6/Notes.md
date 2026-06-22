@@ -209,5 +209,5 @@ Only the text input will receive the style.
 | Attribute Selector | `[ ]`  | `input[type="text"]` |
 
 
-### Include all topics I made project is color Vocab website
+### Include all topics I made project is [color Vocab website](https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%206/Output.png)
 
