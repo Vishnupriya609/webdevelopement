@@ -371,7 +371,7 @@ The `position` property determines how an element is positioned on a webpage.
 ```
 
 * Removed from normal flow
-* Positioned relative to the nearest positioned ancestor (`relative`, `absolute`, `fixed`, or `sticky`)
+* Positioned relative to the nearest positioned ancestor (`relative`, `absolute`, `fixed`)
 * If no positioned parent exists, it uses the page (`body`)
 
 ---
