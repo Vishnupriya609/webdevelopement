@@ -317,7 +317,7 @@ Descendant  Chaining
 ```
 
 
-I made project is [To-Do list]
+I made project is on combining selectors topic [To-Do list](https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%208/output.png)
 
 # CSS Positioning
 
