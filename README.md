@@ -10,4 +10,6 @@
 - [Day 4: Intermediate HTML](https://github.com/Vishnupriya609/webdevelopement/tree/main/Day%204)
 - [Day 5: Multi-page Websites](https://github.com/Vishnupriya609/webdevelopement/tree/main/Day%205)
 - [Day 6: Introduction to CSS](https://github.com/Vishnupriya609/webdevelopement/tree/main/Day%206)
-- [Day 7:  (https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%207/Notes.md)
+- [Day 7:  CSS Colors,Font Properties,Size Units,Box Model](https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%207/Notes.md)
+- [Day 8: CSS Specificity & Inheritance,Selectors,Positioning](
+- [Day 9:CSS Display,Float](
