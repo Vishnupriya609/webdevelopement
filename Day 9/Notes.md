@@ -1,3 +1,5 @@
+#CSS Display
+
 In CSS, the `display` property controls how an element is displayed on a web page.
 
 ### Common `display` Values
