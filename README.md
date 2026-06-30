@@ -12,4 +12,4 @@
 - [Day 6: Introduction to CSS](https://github.com/Vishnupriya609/webdevelopement/tree/main/Day%206)
 - [Day 7:  CSS Colors,Font Properties,Size Units,Box Model](https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%207/Notes.md)
 - [Day 8: CSS Specificity & Inheritance,Selectors,Positioning](https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%208/Notes.md)
-- [Day 9:CSS Display,Float](
+- [Day 9:CSS Display,Float](https://github.com/Vishnupriya609/webdevelopement/blob/main/Day%209/Notes.md)
